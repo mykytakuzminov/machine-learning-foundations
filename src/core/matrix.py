@@ -246,4 +246,3 @@ class Matrix:
 
         if row >= self.shape[0] or col >= self.shape[1]:
             raise IndexError(f"Index ({row}, {col}) is out of bounds for matrix with shape {self.shape}.")
-
