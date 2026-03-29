@@ -26,13 +26,9 @@ htmlcov/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-pyrightconfig.json
 
 # === IDEs & OS ===
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
-
-# === Secrets ===
-.env
