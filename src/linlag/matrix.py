@@ -1,4 +1,6 @@
 class Matrix:
+    """A minimal 2D numerical matrix with arithmetic operations and linear algebra methods."""
+
     def __init__(self, data: list[list[float]]) -> None:
         self.data = data
 
